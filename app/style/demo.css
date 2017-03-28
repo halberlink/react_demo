@@ -1,0 +1,10 @@
+body{
+background: yellow;
+width: 1024px;
+height: 3000px;	
+}
+div{
+	background: red;
+	width: 100px;
+	height: 100px;
+}
