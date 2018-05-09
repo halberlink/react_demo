@@ -1,13 +1,4 @@
-body{
-background: yellow;
-width: 1024px;
-height: 3000px;	
-}
-div{
-	background: red;
-	width: 100px;
-	height: 100px;
-}
+
 body{margin: 0;}
 .impowerBox{width:175px;}
 .impowerBox .qrcode {width:175px;margin:0;}
